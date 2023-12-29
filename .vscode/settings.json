@@ -1,0 +1,11 @@
+{
+	"files.associations": {
+		"stdio.h": "c",
+		"stdlib.h": "c",
+		"string.h": "c",
+		"stdbool.h": "c",
+		"singlylinkedlist.h": "c",
+		"userinterface.h": "c",
+		"windows.h": "c"
+	}
+}
