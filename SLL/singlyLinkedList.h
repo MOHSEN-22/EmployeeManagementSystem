@@ -10,8 +10,8 @@
 #define MAX_TITLE_LEN 30
 #define MAX_NODES 100
 
-
-// Define a structure to store employee data
+ 
+// Define a structure to store  employee data
 typedef struct tag_empl
 {
 	char name[MAX_NAME_LEN];

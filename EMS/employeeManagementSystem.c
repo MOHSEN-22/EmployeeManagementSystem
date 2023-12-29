@@ -8,7 +8,7 @@ int employeeManagementSystem(void)
     bool listCreated = false;
     while (1) // main loop
     {
-        while (changeUser == true) // login loop
+        while (changeUser == true) //  login loop
         {
             currentUserStatus = UI_login_screen();
             if (currentUserStatus != US_NO_USER)

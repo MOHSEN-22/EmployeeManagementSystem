@@ -1,6 +1,6 @@
 #include "userInterface.h"
 #include <windows.h>
-// define a function to create an initial list of employees
+// define a function to  create an initial list of employees
 SinglyLinkedList_t *UI_initial_list_screen(void)
 {
     system("cls");

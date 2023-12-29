@@ -7,7 +7,7 @@ void main()
 	printf("  WELCOME TO EMPLOYEES MANAGEMENT SYSTEM\n");
 	printf("	  BY MOHAMED MOHSEN\n");
 	printf("	     27/12/2023\n");
-	printf("         FEEL FREE TO REUSE \n");
+	printf("          FEEL FREE TO REUSE \n");
     printf("******************************************\n");
 	printf("   ************************************   \n");
 	printf("      ******************************   \n");

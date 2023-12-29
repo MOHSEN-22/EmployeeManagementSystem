@@ -47,7 +47,7 @@ typedef enum requestStatus
 }EN_requestStatus_t;
 
 
-// define a function to create an initial list of employees
+// define a function  to create an initial list of employees
 SinglyLinkedList_t *UI_initial_list_screen(void);
 
 // login screen to validate username and password

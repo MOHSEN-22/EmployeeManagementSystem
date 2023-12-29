@@ -6,7 +6,7 @@ SinglyLinkedList_t *SLL_create_empty_list(void)
 {
 	// Allocate memory for a new list structure
 	SinglyLinkedList_t *newList = (SinglyLinkedList_t *)malloc(1 * sizeof(SinglyLinkedList_t));
-	// Check if memory allocation was successful
+	// Check if memory allocation  was successful
 	if (newList == NULL)
 	{
 		printf("SLL_create_empty_list: Memory allocation failed for newList\n");

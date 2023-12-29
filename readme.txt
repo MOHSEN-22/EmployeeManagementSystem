@@ -14,9 +14,9 @@ starting point  ->  app.c
 ***************************************************************************************
 ***************************************************************************************
 1 : TOP : 	-variables and flow control statements to mange UI components from MIDDLE LAYERS
-		-has nothing to do with what is shown	
+		- has nothing to do with what is shown	
 *****************************
-	EMPLOYEE MANAGEMENT SYSTEM
+	 EMPLOYEE MANAGEMENT SYSTEM
 *****************************
 		EMS.H #include(singlyLinkedList.h ,userInterface.h )
 		EMS.c
